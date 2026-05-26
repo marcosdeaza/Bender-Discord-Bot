@@ -1,7 +1,7 @@
 # ⛧ BENDER — Discord AutoManaging Bot (IA + Verificación + Self-Spaces)
 ![Bender Smoking](https://images.fineartamerica.com/images/artworkimages/medium/3/smoking-bender-futurama-diah-kezia-yuniar-transparent.png)
 
-> “Bienvenido a tu servidor. Ahora todo se gestiona solo. Si intentas abusar de admin… te muerdo el alma.”
+> “Bienvenido a tu servidor. Ahora todo se gestiona solo.”
 >
 > **BENDER** es un bot de *automanaging* para Discord que crea un **entorno completo** dentro del servidor:
 - **Verificación por Key / invitación**
